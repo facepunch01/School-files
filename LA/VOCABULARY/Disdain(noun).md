@@ -1,0 +1,3 @@
+# Disdain
+---
+### Definition

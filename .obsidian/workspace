@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "6bcdc5c9f819a3b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "53f97bfd088ad10a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "LA/Mentor sentences/Week 9.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e84edffb0c46740",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5d9bb21eca3e013",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e88eab31b2c43788",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "03517ddd46ff4e02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e785ad5f187af8c0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97ce6873628a3ca7",
+    "type": "split",
+    "children": [
+      {
+        "id": "872d0c2abd303043",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1be2dd5c4b544bfa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LA/Mentor sentences/Week 9.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1c2e0a537c7aebfc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LA/Mentor sentences/Week 9.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "53f97bfd088ad10a",
+  "lastOpenFiles": [
+    "LA/Mentor sentences/Week 9.md",
+    "LA/VOCABULARY/Disdain(noun).md",
+    "LA/Words.md",
+    "LA/VOCABULARY/Capacious(adj.).md",
+    "LA/VOCABULARY/Adversary(noun).md",
+    "LA/VOCABULARY/Acquiesce(verb).md",
+    "LA/VOCABULARY/Abject(abjective).md",
+    "LA/VOCABULARY/Braggart(noun).md",
+    "LA/VOCABULARY/Contortion(noun).md",
+    "Furtive(Adj.).md"
+  ]
+}
