@@ -2,7 +2,7 @@
 - might use this one
 --- 
 ## Definition
-- Adjective
+- **Adjective**
   1. taken, done, used, etc., surreptitiously or by stealth; secret: 
   2. sly; shifty:
 ## Synonyms

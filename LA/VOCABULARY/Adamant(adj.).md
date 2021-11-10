@@ -1,7 +1,7 @@
 # Adamant [a-də-mənt]
 ---
 ### Definition
-- adjective
+- **adjective**
 	- unshakable or insistent especially in maintaining a position or opinion
 ### Synonyms
 - adamantine
