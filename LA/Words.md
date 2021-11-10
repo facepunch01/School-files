@@ -46,9 +46,9 @@
 41. 
 42. 
 43. 
-44. 
+44. [[Furtive(Adj.)]]
 45. [[Garb(noun)]]
-46. 
+46. [[Gregarious(adj.)]] 
 47. [[Haughty(adj.)]]
 48. 
 49. 
