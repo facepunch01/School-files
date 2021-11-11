@@ -38,7 +38,7 @@
 33. 
 34. 
 35. 
-36. 
+36. [[Enervate(verb)]] 
 37. 
 38. [[Enmity(noun)]]
 39. 
@@ -55,15 +55,15 @@
 50. 
 51. [[Lax(adj.)]] 
 52. 
-53. 
+53. [[Malice(noun)]] 
 54. 
 55. 
 56. 
 57. 
-58. 
+58. [[Nebulous(adj.)]]
 59. 
 60. 
-61. 
+61. [[Ostentatious(adj.)]] 
 62. [[Ostracize(adj.)]]
 63. 
 64. 
