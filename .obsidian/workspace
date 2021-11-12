@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LA/Words.md",
+            "file": "LA/VOCABULARY/Reprove(verb).md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LA/Words.md",
+                "file": "LA/VOCABULARY/Reprove(verb).md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LA/Words.md"
+                "file": "LA/VOCABULARY/Reprove(verb).md"
               }
             }
           }
@@ -106,15 +106,15 @@
   },
   "active": "53f97bfd088ad10a",
   "lastOpenFiles": [
+    "LA/VOCABULARY/Reprove(verb).md",
+    "LA/VOCABULARY/Debacle(noun).md",
+    "LA/VOCABULARY/Defiance(noun).md",
+    "LA/VOCABULARY/Indiffernt(adj).md",
+    "LA/VOCABULARY/Frank(adj.).md",
     "LA/Words.md",
     "LA/VOCABULARY/Lax(adj.).md",
     "LA/VOCABULARY/Contortion(noun).md",
     "LA/VOCABULARY/Furtive(Adj.).md",
-    "LA/VOCABULARY/Ostentatious(adj.).md",
-    "LA/VOCABULARY/Malice(noun).md",
-    "LA/VOCABULARY/Serendipity(noun).md",
-    "LA/VOCABULARY/Haughty(adj.).md",
-    "LA/VOCABULARY/Braggart(noun).md",
-    "LA/VOCABULARY/Disdain(noun).md"
+    "LA/VOCABULARY/Ostentatious(adj.).md"
   ]
 }

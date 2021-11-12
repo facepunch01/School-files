@@ -1,8 +1,7 @@
-# Enervate [ en-er-veyt ]
-- basicly to weaken in some way
+# enervate [ en-er-veyt ]
 ---
 ### Definition
 - **Verb**
-  1. to deprive of force or strength; destroy the vigor of; weaken. 
+  1. to deprive of force or strength; destroy the vigor of; weaken.
 ### Synonym
-enfeeble, debilitate, sap, exhaust. 
+enfeeble, debilitate, sap, exhaust.
