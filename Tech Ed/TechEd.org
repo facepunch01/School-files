@@ -1,0 +1,50 @@
+#+TITLE: Tech Ed
+#+DATE: <2021-11-30 Tue>
+#+STARTUP: inlineimages
+#+STARTUP: overview
+* TERMS
+** Wood Grain
+- the texture of cut wood
+** Hardwood vs Softwood
+- refers to the density
+** Length
+- From end to end
+** Width
+- Across the face of board
+** Thickness
+- the edge of the board
+** Edge, Face, End
+[[https://lh4.googleusercontent.com/aPxX3cKJZd59Od3ZzjCzeCXkp5f53_tkz9N39kGmZUqIHg_77nXjR_Ka4hTlsYfNVtPr3JwPY0GU_cPn2B24_2nwmjjSWFoO5ekRpaw6BK4-ZWdzGGmMJxSBljZk-k_dmf_5c8lZJRY]]
+[[~/grain.png]]
+** Fastener
+- Examples:
+  a. Screw
+  b. Nut
+  c. bold
+** Adhesive
+- Glue or tape
+** Kreg
+- Drilling a hole sideways
+** Square Drive Bit
+- pocket screws most kregs are this
+** Torque
+- the force used to twist
+** Torque Setting
+- Controlles the torque
+** Chuck/Chuck Key
+- Opens and closes the chuck
+** Speed Setting
+- Setting 1 is low speed but hight torque
+- setting 2 is is high speed and for drilling
+** Ripping
+- Cuts done with table saw
+** Cross-cut
+- Cuts done with miter saw
+** Router
+- used for decrative edge
+** Finish
+- refining or protecting wood
+** Polycrylic
+- A clear finish that adds to durbility
+** Forstner Bit
+- used to drill holes
